@@ -8,7 +8,7 @@
 
 ### 🌱 What I’m currently learning:
 - Advanced **Machine Learning** (Supervised, Unsupervised)
-- **Natural Language Processing (NLP)** and **LLMs** like GPT
+- **Natural Language Processing (NLP)** and **LLMs** 
 - **Deep Learning** with TensorFlow & PyTorch
 - Open-source contributions (Hugging Face, GitHub)
 
