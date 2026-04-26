@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm RAJGURU Mandal!
 
-🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Machine Learning** from a Tier-3 college in India.  
+🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Machine Learning** from a Tier-2 college in India.  
 🚀 I'm passionate about **AI, Machine Learning, NLP, and building real-world AI projects**.  
 🎯 My goal is to land a **high-impact role (10–15 LPA)** as a fresher in the AI/ML field.  
 
